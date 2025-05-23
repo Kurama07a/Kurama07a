@@ -3,7 +3,7 @@
 I’m one who enjoys building efficient, scalable, and functional software. My focus lies in backend development, system architecture, and automation. Whether it's designing microservices, optimizing workflows, or working with databases, I love solving complex problems, working on writing clean and maintable code.  
 
 ## Education  
- - 6th Semester **B.Tech** in **CSE** at **IIIT Nagpur**, 
+ - **B.Tech** in **CSE** at **IIIT Nagpur**, 
 
 ## Technical Expertise  
 - **Backend Development:** NodeJs, Express, C++, Python, PHP  
